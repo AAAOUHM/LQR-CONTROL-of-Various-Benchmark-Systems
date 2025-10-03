@@ -23,7 +23,7 @@ The integration of regulator + estimator achieves robust **Type-1 Servo Control*
    - Height control of an iron object under electromagnetic force  
 
 4. **Vehicle Suspension Control**  
-   - Active suspension dynamics with disturbance rejection  
+   - Active suspension dynamics for a half car model
 
 ---
 
